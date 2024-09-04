@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://termoushe.github.io/sitemap.html.gz
+Sitemap: https://termoushe.github.io/app/sitemap.html.gz
+Sitemap: https://termoushe.github.io/assets/sitemap.html.gz
+Sitemap: https://termoushe.github.io/css/sitemap.html.gz
+Sitemap: https://termoushe.github.io/includes/sitemap.html.gz
+Sitemap: https://termoushe.github.io/item/sitemap.html.gz
+Sitemap: https://termoushe.github.io/src/sitemap.html.gz
